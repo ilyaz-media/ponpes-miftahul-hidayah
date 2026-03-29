@@ -686,8 +686,8 @@ body {
     padding-top: 100px;
     justify-content: center;
     align-items: center;
-    margin-top: 150px;
-    min-height: 120vh;
+    margin-top: 100px;
+    min-height: 130vh;
   }
   .hero-image .pst {
     display: none;
