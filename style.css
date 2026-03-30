@@ -600,7 +600,7 @@ body {
 }
 
 .smp {
-  background-color: white;
+  /* background-color: white; */
   height: 100px;
   width: 600px;
   /* position: absolute; */
@@ -725,8 +725,8 @@ body {
     flex-direction: row-reverse;
     width: 50%;
     flex-wrap: wrap;
-    background-color: white;
-    height: 100%;
+    /* background-color: white; */
+    /* height: 100%; */
     justify-content: center;
   }
 
