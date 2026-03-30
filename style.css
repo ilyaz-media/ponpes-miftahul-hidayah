@@ -704,6 +704,7 @@ body {
     align-items: center;
     flex-direction: column;
     padding: 0;
+    /* gap: 0; */
   }
 
   .logo2 {
@@ -728,6 +729,7 @@ body {
     /* background-color: white; */
     /* height: 100%; */
     justify-content: center;
+    margin-top: 100px;
   }
 
   .hero-content {
@@ -771,7 +773,7 @@ body {
   .smp {
     display: none;
     top: 20px;
-    width: 300px;
+    width: 90%;
     font-size: x-small;
     /* flex-direction: column; */
     align-items: center;
