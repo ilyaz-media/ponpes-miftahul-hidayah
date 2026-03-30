@@ -600,9 +600,9 @@ body {
 }
 
 .smp {
-  /* background-color: white; */
-  height: 100px;
-  width: 600px;
+  background-color: white;
+  /* height: 100px; */
+  /* width: 600px; */
   /* position: absolute; */
   /* bottom: -20px; */
   border-radius: 30px;
@@ -687,7 +687,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 100px;
-    min-height: 150vh;
+    min-height: 140vh;
     padding: 100px 0;
   }
   .hero-image .pst {
