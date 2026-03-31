@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ilyaz-media.github.io/ponpes-miftahul-hidayah/
